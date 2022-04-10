@@ -32,7 +32,7 @@ landmark dataset
 - torchvision
 
 
-- Step 1: Create a CNN to Classify Landmarks (from Scratch)
+### - Step 1: Create a CNN to Classify Landmarks (from Scratch)
 In this step, you will create a CNN that classifies landmarks. You must create your CNN from scratch (so, you can't use transfer learning yet!), and you must attain a test accuracy of at least 20%.
 
 
@@ -41,7 +41,7 @@ Question 2: Outline the steps you took to get to your final CNN architecture and
 Answer:
 
 
-- Step 2: Create a CNN to Classify Landmarks (using Transfer Learning)
+### - Step 2: Create a CNN to Classify Landmarks (using Transfer Learning)
 You will now use transfer learning to create a CNN that can identify landmarks from images. Your CNN must attain at least 60% accuracy on the test set.
 
 Question 3: Outline the steps you took to get to your final CNN architecture and your reasoning at each step. Describe why you think the architecture is suitable for the current problem.
@@ -49,7 +49,7 @@ Question 3: Outline the steps you took to get to your final CNN architecture and
 Answer:
 
 
-- Step 3: Write Your Landmark Prediction Algorithm
+### - Step 3: Write Your Landmark Prediction Algorithm
 Great job creating your CNN models! Now that you have put in all the hard work of creating accurate classifiers, let's define some functions to make it easy for others to use your classifiers.
 
 
